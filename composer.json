@@ -1,0 +1,19 @@
+{
+    "name": "jobferrari/gomamay",
+    "description": "Package for GoMamay games",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Job Ferrari",
+            "email": "noip2083@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Jobferrari\\Gomamary\\" : "src/"
+        }
+    }
+}
